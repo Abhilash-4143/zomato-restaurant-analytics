@@ -1,0 +1,17 @@
+﻿COLUMNS: ['address', 'name', 'online_order', 'book_table', 'rate', 'votes', 'phone', 'location', 'rest_type', 'dish_liked', 'cuisines', 'approx_cost(for two people)', 'listed_in(type)']
+  'address': '942, 21st Main Road, 2nd Stage, Banashankari, Bangalore'
+  'name': 'Jalsa'
+  'online_order': 'Yes'
+  'book_table': 'Yes'
+  'rate': '4.1/5'
+  'votes': '775'
+  'phone': '080 42297555\r\n+91 9743772233'
+  'location': 'Banashankari'
+  'rest_type': 'Casual Dining'
+  'dish_liked': 'Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup'
+  'cuisines': 'North Indian, Mughlai, Chinese'
+  'approx_cost(for two people)': '800'
+  'listed_in(type)': 'Buffet'
+
+Missing: {'address': np.int64(17), 'name': np.int64(16), 'online_order': np.int64(19), 'book_table': np.int64(58), 'rate': np.int64(7838), 'votes': np.int64(78), 'phone': np.int64(1296), 'location': np.int64(126), 'rest_type': np.int64(338), 'dish_liked': np.int64(28225), 'cuisines': np.int64(203), 'approx_cost(for two people)': np.int64(521), 'listed_in(type)': np.int64(4610)}
+Shape: (56252, 13)

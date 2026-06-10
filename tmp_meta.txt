@@ -1,0 +1,32 @@
+COLS: address,name,online_order,book_table,rate,votes,phone,location,rest_type,dish_liked,cuisines,approx_cost(for two people),listed_in(type)
+COL|address|942, 21st Main Road, 2nd Stage, Banashankari, Bangalore
+COL|name|Jalsa
+COL|online_order|Yes
+COL|book_table|Yes
+COL|rate|4.1/5
+COL|votes|775
+COL|phone|080 42297555
++91 9743772233
+COL|location|Banashankari
+COL|rest_type|Casual Dining
+COL|dish_liked|Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, S
+COL|cuisines|North Indian, Mughlai, Chinese
+COL|approx_cost(for two people)|800
+COL|listed_in(type)|Buffet
+MISS|address|17
+MISS|name|16
+MISS|online_order|19
+MISS|book_table|58
+MISS|rate|7838
+MISS|votes|78
+MISS|phone|1296
+MISS|location|126
+MISS|rest_type|338
+MISS|dish_liked|28225
+MISS|cuisines|203
+MISS|approx_cost(for two people)|521
+MISS|listed_in(type)|4610
+RATE: ['4.1/5', '3.8/5', '3.7/5', '3.6/5', '4.6/5', '4.0/5', '\\nTop floor', '4.2/5', '3.9/5', '3.1/5', '3.0/5', '3.2/5', '3.3/5', '2.8/5', " ('Rated 1.0'"]
+COST_COL: approx_cost(for two people)
+COST: ['800', '300', '600', '700', " it turned out worse than the garlic bread. The Kentucky killing pizza was the worst dish ever made. Hot chocolate was quite good. Lychee punch was okay. Rest was horrible. This place does not even have a proper place for hand wash.\\nFood-1/5\\nService and staff-2/5\\nAmbience-1/5\\nHope they really improve.')", '550', '500', '450', '650', '400', '900', '200', " 'RATED\\n  one item wasnt delivered')", '750', " Veg jumbo roll and paneer cheesy roll.\\nThey had Navratri Special Menu also which was a unique concept.\\nPackaging was awesome.\\nTaste was up to the mark.\\nPaneer steak was amazing.\\nWould Love to order from here again.')"]
+SHAPE: (56252, 13)
