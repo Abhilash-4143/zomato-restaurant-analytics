@@ -188,16 +188,8 @@ This analysis demonstrates:
 ## 👤 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐙 [GitHub](https://github.com/your-username)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
-
----
+📧 abhilashg869@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/01abhilash?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+🐙 [GitHub](https://github.com/Abhilash-4143)
 
 *⭐ If this project helped you, please give it a star!*
