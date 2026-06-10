@@ -185,11 +185,4 @@ This analysis demonstrates:
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-📧 abhilashg869@gmail.com  
-🔗 https://www.linkedin.com/in/01abhilash?utm_source=share_via&utm_content=profile&utm_medium=member_android
-🐙 https://github.com/Abhilash-4143
-
 *⭐ If this project helped you, please give it a star!*
